@@ -1,7 +1,7 @@
-# SensorMovimneto
+# Sensor Movimneto
 Sensor de Movimento usado para câmeras e sensores software independente 
 
-# MotionAndFaceDetectionApp
+# Motion And Face Detection App
 
 Este é um projeto de detecção de movimento e reconhecimento facial desenvolvido em C#. Ele utiliza a câmera do notebook para detectar movimento e, com a ajuda de APIs de inteligência artificial, identifica rostos humanos e diferencia animais pequenos de humanos para evitar falsos alarmes. Quando um rosto humano é detectado, um alarme é disparado.
 
